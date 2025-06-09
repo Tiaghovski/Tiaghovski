@@ -8,7 +8,7 @@
             alt="Headline" />
     </div>
     <h2> About Me </h2>
-    <img width="55%" height="100%" align="right" alt="Github"
+    <img width="55%" height="200px" align="right" alt="Github"
         src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius quod nulla voluptatibus magni ut natus veniam minima incidunt, quasi sit assumenda exercitationem doloribus cumque                 maiores nobis neque atque aliquam ratione!</p>
     <h2>Teconologías</h2>   
