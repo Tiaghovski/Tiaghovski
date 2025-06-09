@@ -64,4 +64,6 @@
 
 Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
 
+https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
+
 Last edited on: 30/06/2022
