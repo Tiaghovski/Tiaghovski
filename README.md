@@ -11,6 +11,7 @@
     <img width="55%" align="right" alt="Github"
         src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius quod nulla voluptatibus magni ut natus veniam minima incidunt, quasi sit assumenda exercitationem doloribus cumque                 maiores nobis neque atque aliquam ratione!</p>
+      [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 
     <h2>Teconologías</h2>   
-     [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery)](https://skillicons.dev)   
+   
 </div>
