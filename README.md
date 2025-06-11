@@ -9,7 +9,7 @@
     </div>
     <h3 align="center">Conectémonos</h3>
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ssilvaf/](https://uy.linkedin.com/in/santiago-silvaf)">
+  <a href="https://uy.linkedin.com/in/santiago-silvaf">
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-11-512.png"/>
   </a>
 </p>    
@@ -17,7 +17,8 @@
     <p>* Soy Analista Programador egresado de la carrera de ORT Uruguay.</p>
     <p>* Cuento experiencia en análisis, programación, testing y puesta en producción de soluciones.
     Con una etapa previa en soporte técnico, actualmente me desempeño como desarrollador Genexus con un fuerte enfoque en la mejora continua y la adaptabilidad. Me motiva aprender nuevas tecnologías y participar en equipos orientados a resultados, donde pueda seguir creciendo y aportando valor.</p>
-    <p>* Actualmente me desenvuelvo como desarrollador Genexus</p>
+    <p>* Actualmente me desenvuelvo como desarrollador Genexus, he trabajado con las versionas 9, X Evo 1, 16, 17 y 18</p>
+      <img src=" https://avatars.githubusercontent.com/u/16494738?s=200&v=4" />   
     <div id="user-content-toc">
         <ul align="center">
             <summary>
