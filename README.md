@@ -24,7 +24,7 @@
     <div id="user-content-toc">
         <ul align="center">
             <summary>
-                <h2 style="display: inline-block">Tecnologías 👨🏻‍💻</h2>
+                <h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2>
             </summary>
         </ul>
     </div>
@@ -32,7 +32,7 @@
     <p align="left">
         <a href="https://skillicons.dev">
             <img
-                src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,react,redux,angular,cs,dotnet,java,py,django,mysql,postgres,postman,git,github&perline=10" />
+                src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,react,redux,angular,cs,dotnet,java,py,django,mysql,postgres,postman,git,github,vscode&perline=10" />
         </a>
     </p>
 
