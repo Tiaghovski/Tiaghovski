@@ -24,7 +24,7 @@
     <div id="user-content-toc">
         <ul align="center">
             <summary>
-                <h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2>
+                <h2>Tecnologías que conozco 👨🏻‍💻</h2>
             </summary>
         </ul>
     </div>
