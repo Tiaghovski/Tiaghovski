@@ -21,14 +21,7 @@
   <a href="https://github.com/genexuslabs" target="_blank">
   <img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2FKj%2FyE%2F7WCHAGNVF89L-180x180.JPEG&w=128&q=75" alt="GeneXus Logo">
 </a>
-    <div id="user-content-toc">
-        <ul align="center">
-            <summary>
-                <h2>Tecnologías que conozco 👨🏻‍💻</h2>
-            </summary>
-        </ul>
-    </div>
-    <!--tech stack icons-->
+    <h2>Tecnologías que conozco 👨🏻‍💻</h2>    
     <p align="left">
         <a href="https://skillicons.dev">
             <img
