@@ -26,7 +26,7 @@
         </ul>
     </div>
     <!--tech stack icons-->
-    <p align="center">
+    <p align="left">
         <a href="https://skillicons.dev">
             <img
                 src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,react,redux,angular,cs,dotnet,java,py,django,mysql,postgres,postman,git,github&perline=10" />
