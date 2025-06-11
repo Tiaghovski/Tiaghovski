@@ -13,15 +13,14 @@
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-11-512.png"/>
   </a>
 </p>    
-    <h2>Sobre Mi </h2>
+    <h2>Sobre Mi 🙋</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius quod nulla voluptatibus magni ut natus veniam
         minima incidunt, quasi sit assumenda exercitationem doloribus cumque maiores nobis neque atque aliquam ratione!
-    </p>
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+    </p>   
     <div id="user-content-toc">
         <ul align="center">
             <summary>
-                <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
+                <h2 style="display: inline-block">Tecnologías 👨🏻‍💻</h2>
             </summary>
         </ul>
     </div>
@@ -29,7 +28,7 @@
     <p align="center">
         <a href="https://skillicons.dev">
             <img
-                src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+                src="https://skillicons.dev/icons?i=html,css,js,jquery&perline=10" />
         </a>
     </p>
 
