@@ -9,7 +9,7 @@
     </div>
     <h3 align="center">Conectémonos</h3>
 <p align="center">
-  <a href="https://uy.linkedin.com/in/santiago-silvaf">
+  <a href="https://uy.linkedin.com/in/santiago-silvaf" target="_blank">
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-11-512.png"/>
   </a>
 </p>    
