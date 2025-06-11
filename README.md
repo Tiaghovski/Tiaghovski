@@ -9,14 +9,15 @@
     </div>
     <h3 align="center">Conectémonos</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ssilvaf/">
+  <a href="[https://www.linkedin.com/in/ssilvaf/](https://uy.linkedin.com/in/santiago-silvaf)">
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-networks-34/96/social-11-512.png"/>
   </a>
 </p>    
     <h2>Sobre Mi 🙋</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius quod nulla voluptatibus magni ut natus veniam
-        minima incidunt, quasi sit assumenda exercitationem doloribus cumque maiores nobis neque atque aliquam ratione!
-    </p>   
+    <p>* Soy Analista Programador egresado de la carrera de ORT Uruguay.</p>
+    <p>* Cuento experiencia en análisis, programación, testing y puesta en producción de soluciones.
+    Con una etapa previa en soporte técnico, actualmente me desempeño como desarrollador Genexus con un fuerte enfoque en la mejora continua y la adaptabilidad. Me motiva aprender nuevas tecnologías y participar en equipos orientados a resultados, donde pueda seguir creciendo y aportando valor.</p>
+    <p>* Actualmente me desenvuelvo como desarrollador Genexus</p>
     <div id="user-content-toc">
         <ul align="center">
             <summary>
@@ -28,7 +29,7 @@
     <p align="center">
         <a href="https://skillicons.dev">
             <img
-                src="https://skillicons.dev/icons?i=html,css,js,jquery&perline=10" />
+                src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,react,redux,angular,cs,dotnet,java,py,django,mysql,postgres,postman,git,github&perline=10" />
         </a>
     </p>
 
