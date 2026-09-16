@@ -20,8 +20,8 @@
     <p align="left">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vscode&perline=10" /><br>
-            <img src="https://skillicons.dev/icons?i= git,github n&perline=10" /><br>
-            <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,postman&perline=10" />
+            <img src="https://skillicons.dev/icons?i=git,github&perline=10"/><br>
+            <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,postgres&perline=10" />
         </a>
     </p>
     
