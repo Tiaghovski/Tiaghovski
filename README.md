@@ -15,11 +15,9 @@
     <h2>Sobre Mi 🙋</h2>
     <p>* Soy Analista Programador egresado de la Universidad ORT Uruguay.</p>
     <p>* Cuento con experiencia en análisis, programación, testing y puesta en producción de soluciones.
-    Con una etapa previa en soporte técnico, actualmente me desempeño como desarrollador Genexus con un fuerte enfoque en la mejora continua y la adaptabilidad. Me motiva aprender nuevas tecnologías y participar en equipos orientados a resultados, donde pueda seguir creciendo y aportando valor.</p>
-    <p>* En Genexus, he trabajado con las versiones: 9, X Evo 1, 16, 17 y 18</p>
-  <a href="https://github.com/genexuslabs" target="_blank">
-  <img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2FKj%2FyE%2F7WCHAGNVF89L-180x180.JPEG&w=128&q=75" alt="GeneXus Logo">
-</a>
+    Con una etapa previa en soporte técnico, actualmente me desempeño como desarrollador full stack con un fuerte enfoque en la mejora continua y la adaptabilidad. Me motiva aprender nuevas tecnologías y participar en equipos orientados a resultados, donde pueda seguir creciendo y aportando valor.</p>
+    
+
     <h2>Tecnologías que conozco 👨🏻‍💻</h2>    
     <p align="left">
         <a href="https://skillicons.dev">
