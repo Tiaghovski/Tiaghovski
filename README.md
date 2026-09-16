@@ -19,8 +19,7 @@
     <h2>Tecnologías/herramientas que utilizo 👨🏻‍💻</h2>    
     <p align="left">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vscode&perline=10" /><br>
-            <img src="https://skillicons.dev/icons?i=git,github&perline=10"/><br>
+            <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vscode,git,github&perline=10" /><br>          
             <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,postgres&perline=10" />
         </a>
     </p>
