@@ -16,11 +16,15 @@
     <p>* Soy Analista Programador egresado de la Universidad ORT Uruguay.</p>
     <p>* Cuento con experiencia en análisis, programación, testing y puesta en producción de soluciones.
     Con una etapa previa en soporte técnico, actualmente me desempeño como desarrollador full stack con un fuerte enfoque en la mejora continua y la adaptabilidad. Me motiva aprender nuevas tecnologías y participar en equipos orientados a resultados, donde pueda seguir creciendo y aportando valor.</p>
-    <h2>Tecnologías que conozco 👨🏻‍💻</h2>    
+    <h2>Tecnologías/herramientas que utilizo 👨🏻‍💻</h2>    
     <p align="left">
         <a href="https://skillicons.dev">
             <img
-                src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,react,redux,angular,cs,dotnet,java,py,django,mysql,postgres,postman,git,github,vscode&perline=10" />
+                src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vscode,
+                java,py,django,mysql,postgres,postman,git,github,vscode&perline=10" />
+            <img
+                src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vscode,
+                java,oracle,postgres,postman,git,github&perline=10" />
         </a>
     </p>
     
